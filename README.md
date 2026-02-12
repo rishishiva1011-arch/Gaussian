@@ -15,12 +15,12 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 5. Print the values of all variables.
 
 ## Program:
-```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: Rishikesh S
 RegisterNumber: 212225240118
 */
+```
 import numpy as np
 import sys
 n=int(input())
